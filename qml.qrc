@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Form1.qml</file>
+        <file>Form2.qml</file>
+        <file>UI/Assets/paper-lantern.png</file>
+        <file>UI/11. Finance App Project.jpg</file>
+        <file>UI/8. App homescreen interface.jpg</file>
+    </qresource>
+</RCC>
