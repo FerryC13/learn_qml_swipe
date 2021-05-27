@@ -7,5 +7,15 @@
         <file>UI/Assets/paper-lantern.png</file>
         <file>UI/11. Finance App Project.jpg</file>
         <file>UI/8. App homescreen interface.jpg</file>
+        <file>UI/Assets/Piggy Banky_Transparent.png</file>
+        <file>UI/Assets/gold-ingot.png</file>
+        <file>UI/Assets/Piggy Banky_Transparent2.png</file>
+        <file>UI/Assets/roof.png</file>
+        <file>UI/Assets/tarragon.png</file>
+        <file>UI/Assets/hanging-pot.png</file>
+        <file>StandardImage.qml</file>
+        <file>StandardAnimation.qml</file>
+        <file>UI/Assets/arrow_transparent.png</file>
+        <file>SwipeImage.qml</file>
     </qresource>
 </RCC>
